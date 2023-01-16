@@ -4,9 +4,9 @@ We welcome contributions to C-Concepts! Whether you're contribute the concepts o
 
 ## How to Contribute
 
-1. Fork the repository and write the concepts in a new branch.
+1. Fork the repository, Create a New File and write the concepts.
 
-2. Submit a pull request with a detailed explanation of that concept with small understandable programs and MEMEs.
+2. Submit a pull request with a detailed explanation of that concept with small understandable programs (if applicable) and MEMEs (if applicable).
 
 3. Review and discussion will take place in the pull request. We'll work with you to ensure that your contributions are properly tested and integrated into the project.
 
@@ -16,6 +16,6 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/versio
 
 ## Contact
 
-If you have any questions or would like to discuss your contribution before submitting it, please feel free to reach out to the project maintainers at [69coders](https://github.com/Team69coders).
+If you have any questions or would like to discuss your contribution before submitting it, please feel free to reach out to the project maintainers at [Team69coders](https://github.com/Team69coders).
 
 Thank you for your interest in contributing to C-Concepts!
